@@ -4,9 +4,9 @@ Here you should find all projects I've pushed to my github.io page.
 
 These will be linked from my main portfolio site at ((insert URL here)).
 
-### Markdown
+### Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[My portfolio site, hosted with github pages.](https://tamassaro.github.io/massaro_portfolio/) 
 
 ```markdown
 Syntax highlighted code block
